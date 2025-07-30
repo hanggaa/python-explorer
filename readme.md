@@ -2,8 +2,7 @@
 
 A simple yet powerful desktop application built with Python and Tkinter that generates a clean, tree-style representation of a directory's structure. It includes file-type specific icons (emojis) and a one-click "copy to clipboard" feature, making it easy to document and share your project's layout.
 
-![App Screenshot](https://i.imgur.com/uRcNXv9.png) 
-*(You can replace this with your own screenshot)*
+![App Screenshot](https://raw.githubusercontent.com/hanggaa/Log/refs/heads/main/Screenshot%202025-07-30%20153115.png)
 
 ---
 
@@ -29,19 +28,18 @@ A simple yet powerful desktop application built with Python and Tkinter that gen
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/hanggaa/python-explorer.git](https://github.com/hanggaa/python-explorer.git)
+    cd python-explorer
     ```
 
 2.  **Run the application:**
     ```sh
-    python explorer_app.py
+    python explorer.py
     ```
-    *(Replace `explorer_app.py` with the actual name of your Python file)*
 
-3.  **Select a Directory:** Click the **"Pilih Direktori untuk Dilihat"** button and choose the root folder you want to analyze.
+3.  **Select a Directory:** Click the **"Select Directory to View"** button and choose the root folder you want to analyze.
 
-4.  **View and Copy:** The directory tree will instantly appear in the text area. Click the **"Salin Output ke Clipboard"** button to copy the entire structure.
+4.  **View and Copy:** The directory tree will instantly appear in the text area. Click the **"Copy Output to Clipboard"** button to copy the entire structure.
 
 ---
 
@@ -70,4 +68,4 @@ You can easily customize the application's behavior by editing the configuration
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+This project is licensed under the **MIT License**.
