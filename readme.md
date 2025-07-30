@@ -28,7 +28,7 @@ A simple yet powerful desktop application built with Python and Tkinter that gen
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/hanggaa/python-explorer.git](https://github.com/hanggaa/python-explorer.git)
+    git clone https://github.com/hanggaa/python-explorer.git
     cd python-explorer
     ```
 
